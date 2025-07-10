@@ -1,0 +1,12 @@
+torch
+pandas
+scikit-learn
+numpy
+seaborn
+matplotlib
+tqdm
+joblib
+opencv-python
+scikit-image
+phasepack-python
+pyFFTW

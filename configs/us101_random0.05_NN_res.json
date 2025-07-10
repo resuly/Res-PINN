@@ -1,0 +1,8 @@
+{
+    "loss_nn": true,
+    "loss_pde": false,
+    "train_sample_method": "random",
+    "train_sample_p": 0.05,
+    "dataset_name": "us101",
+    "nn_enable_residual": true
+}

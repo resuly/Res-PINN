@@ -1,0 +1,23 @@
+{
+    "mode": [
+        "speed"
+    ],
+    "physical_model": [
+        "gs_speed_norm"
+    ],
+    "loss_nn": true,
+    "loss_pde": false,
+    "train_sample_p": 0.05,
+    "main_path": "./",
+    "random_seed": 42,
+    "nn_enable_residual": false,
+    "nn_hs": 32,
+    "nn_n_layers": 8,
+    "n_random_inputs": 4000,
+    "n_epochs": 3000,
+    "scheduler_patience": 200,
+    "batch_size": 4096,
+    "optimizer": "lamb",
+    "lr": 0.004,
+    "wd": 0.0002
+}
